@@ -1,6 +1,6 @@
 # Music-Player with JavaScript
 
-The full code for music player web application is designed along with the necessary following functions
+The full code for music player web application is given along with the necessary following functions
 
 Function
 1) Random Song
